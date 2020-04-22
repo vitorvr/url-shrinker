@@ -1,0 +1,11 @@
+{
+  "name": "url-shrinker",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.10",
+    "shortid": "^2.2.15"
+  }
+}
